@@ -1,0 +1,11 @@
+// export {default as Login} from './Login/Login';
+// export {default as Signup} from './Signup/Signup';
+export {default as Home} from './Home/Home';
+export {default as Account} from './Account/Account';
+// export {default as MyProfile} from './MyProfile/MyProfile';
+export {default as Notifications} from './Notifications/Notifications';
+export {default as AboutUs} from './AboutUs/AboutUs';
+// export {default as VerifyAccount} from './VerifyAccount/VerifyAccount';
+// export {default as forgotPassword} from './ForgotPassword/ForgotPassword';
+// export {default as ResetPassword} from './ResetPassword/ResetPassword';
+export  {default as Settings} from './Settings';

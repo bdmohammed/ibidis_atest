@@ -5,7 +5,7 @@ export const API_BASE_URL = 'https://api.ibids.in/api';
 export const API_UPLOAD_URL = 'https://api.ibids.in/uploads/';
 
 // export const API_UPLOAD_URL = 'https://demoapi.ibids.in/uploads/';
-export const getApiUrl = endpoint => API_BASE_URL + endpoint;
+export const getApiUrl = (endpoint: string) => API_BASE_URL + endpoint;
 export const GET_POST_BY_FILTER = getApiUrl('/posts/filter');
 export const GET_GLOBAL_ADS_FILTER = getApiUrl('/globalAds');
 
@@ -203,3 +203,15 @@ export const WALLET_TRANSFER_CONFIRM = getApiUrl('/wallet/transfer/confirm');
 export const VENDOR_SLOTS = getApiUrl('/vendor/slots');
 
 export const GET_CASH_PRIZE_LIST = getApiUrl('/cashprizeglobalAds');
+
+
+//fake
+export const CONTACT_API = getApiUrl('/');
+export const EDIT_PROFILE = getApiUrl('/');
+export const FAQ = getApiUrl('/');
+export const FORGOT_PASSWORD = getApiUrl('/');
+export const GET_CURRENT_USER = getApiUrl('/');
+export const NEED_HELP = getApiUrl('/');
+export const UPDATE_PASSWORD = getApiUrl('/');
+export const VIEW_DATA = getApiUrl('/');
+export const USER_AUTH_CHECK = getApiUrl('/');

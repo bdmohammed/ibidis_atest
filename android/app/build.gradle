@@ -116,4 +116,6 @@ dependencies {
     } else {
         implementation jscFlavor
     }
+    
+    implementation "androidx.core:core:1.9.0"
 }

@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "1542447435.com.vemsys.ibids"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "#": "/ads",
+            "exclude": true,
+            "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+          },
+          {
+            "#": "/cashAds",
+            "exclude": true,
+            "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "1542447435.com.vemsys.ibids"
+    ]
+  }
+}

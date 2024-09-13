@@ -1,4 +1,9 @@
 {
   "name": "ibids",
-  "displayName": "ibids"
+  "displayName": "ibids",
+  "jsEngine": "jsc",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1511669721718109~5134800857",
+    "ios_app_id": "ca-app-pub-1511669721718109/1360536360"
+  }
 }

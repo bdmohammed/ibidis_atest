@@ -1,0 +1,52 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibids",
+      "sha256_cert_fingerprints": [
+        "33:25:F4:7B:00:76:6D:CD:BB:A0:75:76:02:01:F5:58:C7:CF:84:1A:41:08:38:2E:B4:47:0F:7E:52:18:59:A9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibids",
+      "sha256_cert_fingerprints": [
+        "FE:B8:F9:0C:DB:42:E8:8D:BD:26:96:8B:B8:AB:B5:78:3C:60:2C:31:FC:BD:A3:8D:51:09:BB:2E:F2:02:BE:74"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibids",
+      "sha256_cert_fingerprints": [
+        "62:78:9E:CC:D3:64:7F:5C:1C:88:C8:55:18:81:94:77:0A:27:68:58:B5:6E:FF:72:76:FF:CD:7F:4E:5B:C9:C0"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibids",
+      "sha256_cert_fingerprints": [
+        "2F:D9:60:6D:C2:3F:18:8D:88:C9:51:3D:CE:59:D8:7A:53:B6:C8:E7:CD:56:11:B6:8D:CF:42:C7:34:00:F6:A9"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ibids",
+      "sha256_cert_fingerprints":
+      ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+    }
+  }
+]
+
